@@ -1,0 +1,22 @@
+body {
+  background-color: #fff;
+}
+
+body {
+  font-size: 20px;
+}
+
+body div {
+  font-style: 10px;
+  color: rgb(55, 0, 255);
+}
+
+.red {
+  color: red;
+}
+
+@media screen and (max-width: 991px) {
+  .red {
+    color: rgb(255, 0, 179);
+  }
+}
